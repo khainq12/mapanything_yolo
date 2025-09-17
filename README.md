@@ -528,7 +528,7 @@ UniCeption & WorldAI (WAI) Data are two crucial building blocks and have been de
 
 🌍 [WAI](./data_processing/README.md) is a unified data format for all things 3D, 4D & Spatial AI. It enables easy, scalable and reproducable data processing.
 
-We strongly encourage the community to build on top of the tools and submit PRs! This also enables us to release more stronger models (both apache and research use) as the community adds more datasets to WAI and builds on top of UniCeption/MapAnything.
+We strongly encourage the community to build on top of the tools and submit PRs! This also enables us to release stronger models (both apache and research use) as the community adds more datasets to WAI and builds on top of UniCeption/MapAnything.
 
 ### Related Research
 
@@ -549,7 +549,7 @@ If you find our repository useful, please consider giving it a star ⭐ and citi
 ```bibtex
 @inproceedings{keetha2025mapanything,
   title={{MapAnything}: Universal Feed-Forward Metric {3D} Reconstruction},
-  author={Nikhil Keetha and Norman Müller and Johannes Schönberger and Lorenzo Porzi and Yuchen Zhang and Tobias Fischer and Arno Knapitsch and Duncan Zauss and Ethan Weber and Nelson Antunes and Jonathon Luiten and Manuel Lopez-Antequera and Samuel Rota Bulò and Christian Richardt and Deva Ramanan and Sebastian Scherer and Peter Kontschieder},
+  author={Nikhil Keetha and Norman M\"{u}ller and Johannes Sch\"{o}nberger and Lorenzo Porzi and Yuchen Zhang and Tobias Fischer and Arno Knapitsch and Duncan Zauss and Ethan Weber and Nelson Antunes and Jonathon Luiten and Manuel Lopez-Antequera and Samuel Rota Bul\`{o} and Christian Richardt and Deva Ramanan and Sebastian Scherer and Peter Kontschieder},
   booktitle={arXiv},
   year={2025}
 }
