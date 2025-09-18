@@ -547,10 +547,10 @@ We thank the folowing projects for their open-source code: [DUSt3R](https://gith
 If you find our repository useful, please consider giving it a star ⭐ and citing our paper in your work:
 
 ```bibtex
-@article{keetha2025mapanything,
+@misc{keetha2025mapanything,
   title={{MapAnything}: Universal Feed-Forward Metric {3D} Reconstruction},
   author={Nikhil Keetha and Norman M\"{u}ller and Johannes Sch\"{o}nberger and Lorenzo Porzi and Yuchen Zhang and Tobias Fischer and Arno Knapitsch and Duncan Zauss and Ethan Weber and Nelson Antunes and Jonathon Luiten and Manuel Lopez-Antequera and Samuel Rota Bul\`{o} and Christian Richardt and Deva Ramanan and Sebastian Scherer and Peter Kontschieder},
-  journal={arXiv preprint arXiv:2509.13414},
+  note={arXiv preprint arXiv:2509.13414},
   year={2025}
 }
 ```
