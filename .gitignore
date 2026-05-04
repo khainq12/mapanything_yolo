@@ -174,3 +174,8 @@ cython_debug/
 
 # VSCode
 .vscode
+*.glb
+*.npz
+*.ply
+input_images_*
+semantic_3d_output/
